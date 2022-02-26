@@ -1,0 +1,130 @@
+INFO:root:Train Accuracy at epoch 0 is: 0.47412574229427845 and mcc is: -0.03345886053377632 and f1 is: 0.02345527743742342 and loss is 0.7229153513908386
+INFO:root:Val Accuracy at epoch 0 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 0 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 1 is: 0.47643510227165614 and mcc is: -0.015041749011094804 and f1 is: 0.02884867558353003 and loss is 0.7228782773017883
+INFO:root:Val Accuracy at epoch 1 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 1 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 2 is: 0.4767178810443963 and mcc is: -0.012903157388763025 and f1 is: 0.026308866087871613 and loss is 0.7222612500190735
+INFO:root:Val Accuracy at epoch 2 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 2 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 3 is: 0.4765764916580262 and mcc is: -0.014203130943602553 and f1 is: 0.023734177215189875 and loss is 0.7232714295387268
+INFO:root:Val Accuracy at epoch 3 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 3 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 4 is: 0.4745499104533886 and mcc is: -0.029754476014317556 and f1 is: 0.025351866421890027 and loss is 0.7230115532875061
+INFO:root:Val Accuracy at epoch 4 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 4 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 5 is: 0.4758695447261759 and mcc is: -0.019727898239585734 and f1 is: 0.025755584756898816 and loss is 0.7225019931793213
+INFO:root:Val Accuracy at epoch 5 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 5 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 6 is: 0.4754453765670657 and mcc is: -0.02335196408053344 and f1 is: 0.02402665731322343 and loss is 0.7230578660964966
+INFO:root:Val Accuracy at epoch 6 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 6 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 7 is: 0.4763408426807428 and mcc is: -0.015788230590779415 and f1 is: 0.028503978315991958 and loss is 0.7230129241943359
+INFO:root:Val Accuracy at epoch 7 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 7 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 8 is: 0.474644170044302 and mcc is: -0.029790848775115703 and f1 is: 0.02296432640897537 and loss is 0.7220519781112671
+INFO:root:Val Accuracy at epoch 8 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 8 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 9 is: 0.4754453765670657 and mcc is: -0.023624148712884024 and f1 is: 0.0228270412642669 and loss is 0.7226160764694214
+INFO:root:Val Accuracy at epoch 9 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 9 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 10 is: 0.4765293618625695 and mcc is: -0.014601579851994896 and f1 is: 0.023732091060912366 and loss is 0.7222959995269775
+INFO:root:Val Accuracy at epoch 10 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 10 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 11 is: 0.4749740786124988 and mcc is: -0.025767907875156777 and f1 is: 0.0292784942488672 and loss is 0.7233234643936157
+INFO:root:Val Accuracy at epoch 11 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 11 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 12 is: 0.4753039871806956 and mcc is: -0.024296307010508906 and f1 is: 0.024704336399474378 and loss is 0.7231962084770203
+INFO:root:Val Accuracy at epoch 12 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 12 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 13 is: 0.47638797247619946 and mcc is: -0.015534160055347452 and f1 is: 0.02680448493342677 and loss is 0.7224100232124329
+INFO:root:Val Accuracy at epoch 13 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 13 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 14 is: 0.4757752851352625 and mcc is: -0.020123586384108497 and f1 is: 0.028134556574923548 and loss is 0.7228382229804993
+INFO:root:Val Accuracy at epoch 14 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 14 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 15 is: 0.4744085210670186 and mcc is: -0.03062703629867933 and f1 is: 0.02585604472396925 and loss is 0.7219507694244385
+INFO:root:Val Accuracy at epoch 15 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 15 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 16 is: 0.4744085210670186 and mcc is: -0.03155953040405168 and f1 is: 0.022954266690029788 and loss is 0.7229898571968079
+INFO:root:Val Accuracy at epoch 16 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 16 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 17 is: 0.47558676595343574 and mcc is: -0.022140751108701333 and f1 is: 0.024546331200140263 and loss is 0.7227104902267456
+INFO:root:Val Accuracy at epoch 17 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 17 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 18 is: 0.4751154679988689 and mcc is: -0.02627210126495619 and f1 is: 0.022641509433962263 and loss is 0.7226228713989258
+INFO:root:Val Accuracy at epoch 18 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 18 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 19 is: 0.4747855594306721 and mcc is: -0.028509386507535237 and f1 is: 0.02365516032942001 and loss is 0.7227337956428528
+INFO:root:Val Accuracy at epoch 19 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 19 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 20 is: 0.4747384296352154 and mcc is: -0.028916739222335563 and f1 is: 0.023481994217120827 and loss is 0.7227397561073303
+INFO:root:Val Accuracy at epoch 20 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 20 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 21 is: 0.4739372231124517 and mcc is: -0.03396774364821719 and f1 is: 0.025833478792110315 and loss is 0.721855103969574
+INFO:root:Val Accuracy at epoch 21 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 21 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 22 is: 0.4745499104533886 and mcc is: -0.03158082926165449 and f1 is: 0.02004043245143711 and loss is 0.7225568890571594
+INFO:root:Val Accuracy at epoch 22 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 22 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 23 is: 0.47558676595343574 and mcc is: -0.022382333538463275 and f1 is: 0.023347669621697535 and loss is 0.723042368888855
+INFO:root:Val Accuracy at epoch 23 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 23 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 24 is: 0.47516259779432557 and mcc is: -0.025630407385905506 and f1 is: 0.02367175170962651 and loss is 0.7222819328308105
+INFO:root:Val Accuracy at epoch 24 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 24 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837
+INFO:root:Train Accuracy at epoch 25 is: 0.47610519370345933 and mcc is: -0.018252629091420586 and f1 is: 0.022855133614627286 and loss is 0.7221238613128662
+INFO:root:Val Accuracy at epoch 25 is: 0.38427947598253276 and mcc is: nan and f1 is: 0.0 and loss is 0.7502938508987427
+INFO:root:Best Val acc 0.38427947598253276
+INFO:root:Test Accuracy at epoch 25 is: 0.4652725914861837 and mcc is: nan and f1 is: 0.0 and loss is 0.7229306101799011
+INFO:root:Best test acc is 0.4652725914861837

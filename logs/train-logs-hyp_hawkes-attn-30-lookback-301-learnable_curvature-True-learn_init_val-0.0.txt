@@ -1,0 +1,3 @@
+INFO:root:Train Accuracy at epoch 0 is: 0.2847222222222222 and f1 is: 0.1929937850760501 and loss is 1.7802581787109375
+INFO:root:Val Accuracy at epoch 0 is: 0.6328125 and f1 is: 0.1937799043062201 and loss is 1.0340958833694458
+INFO:root:Best Val mcc 0
