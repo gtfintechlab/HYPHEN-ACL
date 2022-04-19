@@ -1,0 +1,16 @@
+---
+ lookback_days: 10
+ epoch: 50
+ input_size: 768
+ batch_size: 128
+ attn_type: "vanilla"
+ learnable_curvature: false
+ init_curvature_value: 1.0
+ patience: 7
+ hidden_dim: 128
+ lr: 0.0005
+ unit: 30
+ hyp_lstm: true
+ time_param: false
+ model_dir: ''
+ results_dir: ''

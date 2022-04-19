@@ -1,1 +1,0 @@
-INFO:root:Train Accuracy at epoch 0 is: 0.5711521612149533 and f1 is: 0.22072345359503615 and loss is 1.15428626537323
