@@ -1,7 +1,6 @@
-# Hyperbolic Hawkes Attention Network For Sequence Modeling
+# HYPHEN: Hyperbolic Hawkes Attention For Text Streams
 
-This codebase contains the python scripts for HYPHEN, the model for the ACL 2022 paper, "Hyperbolic Hawkes Attention Network For Sequence Modeling
-". This work was done with the FinTech lab at Georgia Tech. The FinTech lab aims to be a hub for finance education, research and industry in the Southeast. The lab acts as a platform to connect and bring together faculty and students across Georgia Tech with the financial services industry and FinTech entrepreneurs. 
+This codebase contains the python scripts for HYPHEN, the model for the ACL 2022 paper, "HYPHEN: Hyperbolic Hawkes Attention For Text Streams". This work was done with the FinTech lab at Georgia Tech. The FinTech lab aims to be a hub for finance education, research and industry in the Southeast. The lab acts as a platform to connect and bring together faculty and students across Georgia Tech with the financial services industry and FinTech entrepreneurs. 
 
 
 ## HYPHEN
@@ -31,7 +30,7 @@ Consider citing our work if you use our codebase
 
 ```c
 @inproceedings{Agarwal-etal-2022,
-    title = "Hyperbolic Hawkes Attention Network For Sequence Modeling",
+    title = "HYPHEN: Hyperbolic Hawkes Attention For Text Streams",
     author = "Agarwal, Shivam  and 
       Sawhney, Ramit  and
       Ahuja, Sanchit, and
